@@ -35,7 +35,6 @@ this code is tested and works perfectly fine :)
 #include <sys/types.h> 
 #define LINELENGTH 500
 
-//sort function
 int main()
 {
     
@@ -200,5 +199,3 @@ int main()
     }
 return 0;
 }
-//Dear professors I'm so stressed out I think the gereral body of the code is true if you read comments but
-//unfortunately I could not write a more complete code I hope I can compensate for the oral.
